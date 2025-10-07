@@ -1,0 +1,19 @@
+git log
+premier : dsyer committed on Jun 14
+dernier : michaelisvy committedon Jan 9, 2013
+
+git branch -a
+nb branches : 9
+
+git shortlog -sn
+les trois principaux collaborateurs sont:
+ 210  Mic
+ 156  Dave Syer
+ 142  Antoine Rey
+
+git tag -n
+1 tag
+1.5.x    Use leading / in app URL
+
+oui il est lié
+on peut le voir sur git action
