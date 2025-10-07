@@ -20,4 +20,4 @@ jobs:
 
       - name: Run the Python script
         run: |
-          python ../Exercice2/helloworld.py
+          python /Exercice2/helloworld.py
