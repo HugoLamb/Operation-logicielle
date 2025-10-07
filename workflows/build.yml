@@ -18,6 +18,6 @@ jobs:
         with:
           python-version: '3.11' 
 
-      - name: Compile
+      - name: Run the Python script
         run: |
-          python -m compileall ../Exercice2/helloworld/
+          python ../Exercice2/helloworld.py
